@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on unity game engine.
 - 🌱 I’m currently learning Data-Security.
-- 💬 Ask me about Unity,C++,C,Data-Compression,Augmented reality,programming.
+- 💬 Ask me about: Unity,C++,C,Data-Compression,Augmented reality,programming.
 - 📫 How to reach me: udhaybrahmi@gmail.com
 - 😄 Pronouns: He/His
 - 💥 Greeks-For-Greeks: [https://auth.geeksforgeeks.org/user/udhaybrahmi/practice/](url)

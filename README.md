@@ -6,3 +6,4 @@
 - 📫 How to reach me: @brahmiUdhay
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You read this fact.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Udhay-Brahmi)

@@ -7,9 +7,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The password for the computer controls of nuclear tipped missiles of the U.S was 00000000 for eight years.
 - 💥 Other Activities: 
-           [https://auth.geeksforgeeks.org/user/udhaybrahmi/practice/](url)
-           https://ccodinglanguage.blogspot.com/2020/09/c-structure-local-scope-typedef.html
-           https://www.youtube.com/playlist?list=PL0JlkXkl7laaAHLmqPgQfV8B_unBt6Hja
+          > [https://auth.geeksforgeeks.org/user/udhaybrahmi/practice/](url)
+          > https://ccodinglanguage.blogspot.com/2020/09/c-structure-local-scope-typedef.html
+          > https://www.youtube.com/playlist?list=PL0JlkXkl7laaAHLmqPgQfV8B_unBt6Hja
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Udhay-Brahmi)
 

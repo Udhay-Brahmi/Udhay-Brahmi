@@ -9,4 +9,3 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Udhay-Brahmi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udhay-Brahmi)](https://github.com/anuraghazra/github-readme-stats)

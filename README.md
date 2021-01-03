@@ -1,8 +1,8 @@
 ### Hi Everyone, 👋
 
-- 🔭 I’m currently working on unity game engine.
+- 🔭 I’m currently working on Unity game engine.
 - 🌱 I’m currently learning Data-Security and video-editing.
-- 💬 Ask me about: Unity,C++,C,Data-Compression,Augmented reality,programming.
+- 💬 Ask me about: Unity2D,Unity3D,C++,C,Data-Compression,Augmented reality(Vuforia),programming.
 - 📫 How to reach me: udhaybrahmi@gmail.com , https://www.linkedin.com/in/udhay-brahmi-6330591b5/.
 - 😄 Pronouns: He/His
 - 💥 Greeks-For-Greeks: [https://auth.geeksforgeeks.org/user/udhaybrahmi/practice/](url)

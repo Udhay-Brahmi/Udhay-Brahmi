@@ -1,7 +1,6 @@
 ### Hi Everyone, 👋
 
-- 🔭 I’m currently working on Unity game engine.
-- 🌱 I’m currently learning Data-Security and video-editing.
+- 🌱 I’m currently learning core cse subjects.
 - 💬 Ask me about: Unity2D,Unity3D,C++,C,Data-Compression,Augmented reality(Vuforia),programming.
 - 📫 How to reach me: udhaybrahmi@gmail.com , https://www.linkedin.com/in/udhay-brahmi-6330591b5/.
 - 😄 Pronouns: He/His

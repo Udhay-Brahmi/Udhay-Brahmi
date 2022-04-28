@@ -19,13 +19,13 @@
 
 
 ## 🚀 About Me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhay-brahmi-6330591b5/)
 - Codechef (@3⭐ with 1694 highest rating)
 - Game developer(Unity engine) 
 - Data science enthusiastic
 - SIH University level finalist (Team leader)
 - GFG 5th University rank
 - Open Source Contributor
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhay-brahmi-6330591b5/)
 
 
 

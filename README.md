@@ -1,5 +1,7 @@
 
 # Hi, I'm Udhay Brahmi! 👋
+- CSE student at IIT Bombay.
+- Working in Machine-learning/Deep-learning domain(more specifically in LLM's)
 - GATE 2023 CSE AIR : 405.
 - Codechef (@5⭐ with 2058 highest rating)
 - Game developer(Unity engine) 
